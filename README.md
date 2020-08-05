@@ -1,10 +1,11 @@
-### Hi there 👋
+# Leonardo Valadão
 
-<!-- **leonardovaladao/leonardovaladao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Hey there! 👋
+I'm a physics undergrad student living in São Paulo, Brazil. Currently I'm working on a research about physic's epistemology. On the side, I study programming and create my own projects to sell or just for fun. <br/>
+I love solving math problems with programming and developing new applications from scratch!
 
-I'm a physics undergrad student living in São Paulo, Brazil. Currently I'm working on a research about physic's epistemology. On the side, I study programming and create my own projects to sell or just for fun.
-My linkedin: https://www.linkedin.com/in/leonardo-machado-valad%C3%A3o-59192419b/
-My email: leonardo.m.valadao@hotmail.com
+- My linkedin: https://www.linkedin.com/in/leonardo-machado-valad%C3%A3o-59192419b/
+- My email: leonardo.m.valadao@hotmail.com
 
 Some things about me:
 
@@ -17,4 +18,3 @@ Some things about me:
 - 💬 Ask me about Physics!
 - 😄 Pronouns: He/Him
 <!-- ⚡ Fun fact: ...-->
-

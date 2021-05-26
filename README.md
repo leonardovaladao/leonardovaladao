@@ -1,6 +1,5 @@
 # Leonardo Valadão
 
-## I'm currently open to work! 👋
 I'm a physics undergrad student living in São Paulo, Brazil. Currently I'm working on a research about physics episthemology, and another research about physics concepts behind science fiction. On the side, I study programming and create my own projects just for fun. In the past, I've worked with HTML, CSS and PHP on web development, and Data Analysis with Python.<br/>
 I love solving math problems with programming and developing new applications from scratch!
 

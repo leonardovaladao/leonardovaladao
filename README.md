@@ -1,12 +1,14 @@
 # Leonardo Valadão
 
-I'm a physics undergrad student living in São Paulo, Brazil. Currently I'm working on a research about physics episthemology, and another research about physics concepts behind science fiction. On the side, I study programming and create my own projects just for fun. In the past, I've worked with HTML, CSS and PHP on web development, and Data Analysis with Python.<br/>
-I love solving math problems with programming and developing new applications from scratch!
+In an increasingly connected world and with information available more and more easily, to change lives through technology isn't just a possibility, but a requirement.
+That's my purpose: To better and transform people's lives through technological solutions.
+
+I am a data scientist, a researcher in the field of Science Studies, and a Physics undergrad. I have experience with data analysis, database management and front-end web development. 
 
 - My linkedin: https://www.linkedin.com/in/leonardo-valad%C3%A3o/
 - My email: leonardo.m.valadao@hotmail.com
 
-Some things about me:
+<!--Some things about me:
 
 - 🔭 I’m currently working on University
 - 🌱 I’m currently learning React and Machine Learning
@@ -16,4 +18,4 @@ Some things about me:
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Physics!
 - 😄 Pronouns: He/Him
-<!-- ⚡ Fun fact: ...-->
+ ⚡ Fun fact: ...-->

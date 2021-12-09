@@ -7,6 +7,7 @@ I am a data scientist, a researcher in the field of Science Studies, and a Physi
 
 - My linkedin: https://www.linkedin.com/in/leonardo-valad%C3%A3o/
 - My email: leonardo.m.valadao@hotmail.com
+- My website: https://leonardovaladao.github.io/
 
 <!--Some things about me:
 

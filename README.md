@@ -8,10 +8,12 @@ I am a data scientist with Physics degree, currently working as a Modeling Stati
 <div style="display: inline_block" align="center"><br>
   
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ScikitLearn" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Flask" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Scala" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg">
-  <img align="center" alt="Ubuntu" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Linux" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="WordPress" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardovaladao&langs_count=3&theme=dark)](#)
@@ -21,8 +23,9 @@ I am a data scientist with Physics degree, currently working as a Modeling Stati
 <div align="center"> 
   <a href="https://www.linkedin.com/in/leonardo-valadao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leonardo.m.valadao@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https:leovaladao.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <a href="https://wa.me/+5511943075610" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@leonardo.m.valadao" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  
   
 </div>
 
